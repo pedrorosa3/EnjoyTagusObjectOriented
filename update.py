@@ -1,6 +1,6 @@
 # 2022-2023 Programação 2
 # Grupo 106
-# 62904 Pedro Rosa
+# 60294 Pedro Rosa
 # 60285 Tomás Nogueira
 
 from Constants import HEADER_DATE_IDX,HEADER_HOUR_IDX,HEADER_SPECIFICATION
